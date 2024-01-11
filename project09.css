@@ -27,7 +27,7 @@ body {
 .item-9-Ckh .auto-group-kgx1-vAu {
   box-sizing: border-box;
   padding: 3.9rem 16.5rem 22.6rem 11.4rem;
-  width: 1440px;
+  width: 100%;
   height: 714px;
   align-items: center;
   display: flex;
@@ -35,7 +35,7 @@ body {
   background-size: 100.211% 100%;
   /* background-size: 1440px; */
   background-position: -0.1516rem 0;
-  background-image: url(../image/Background.png);
+  background-image: url(https://res.cloudinary.com/dnneye2o9/image/upload/v1705005795/lp_bg_atul7f.png);
   background-color: rgba(5, 5, 5, 0.4699999988);
   flex-shrink: 0;
 }
@@ -47,7 +47,7 @@ body {
   flex-shrink: 0;
 }
 .item-9-Ckh .auto-group-kgx1-vAu .auto-group-wqnd-c3j .navbar-left-93f {
-  width: 113.557rem;
+  width: 100%;
   height: 17.2rem;
   position: absolute;
   left: 2.543rem;
@@ -300,7 +300,8 @@ body {
   width: 144rem;
   height: 71.4rem;
   position: relative;
-  background-image: url("REPLACE_IMAGE:a7702199e73391885110cec9791eb73b65fc511d");
+  /* background-image: url("REPLACE_IMAGE:a7702199e73391885110cec9791eb73b65fc511d"); */
+  background-image: url("../Project09/Assets/image/Background.png");
 }
 .item-9-Ckh .main-sjf {
   box-sizing: border-box;
@@ -1549,7 +1550,7 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("../assets/image-bg-2Su.png");
+  background-image: url("https://res.cloudinary.com/dnneye2o9/image/upload/v1705006003/Background_vfwnr0.png");
   border-radius: 0.4rem;
   background-color: rgba(0, 0, 0, 0.0799999982);
 }
